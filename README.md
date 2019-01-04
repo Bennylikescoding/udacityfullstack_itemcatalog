@@ -9,9 +9,9 @@ You will develop an application that provides a list of items within a variety o
 - After logging in, a user has the ability to add, update, or delete item info.
 - The application provides a JSON endpoint, at the very least.
 ## Dependencies/Pre-requisites:
-1. The virtual machine:[Vagrant](https://www.vagrantup.com/)
-2. Links provided by udacity: [Udacity Vagrantfile](https://github.com/udacity/fullstack-nanodegree-vm)
-3. Virtual box toolkit: [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- The virtual machine:[Vagrant](https://www.vagrantup.com/)
+- Links provided by udacity: [Udacity Vagrantfile](https://github.com/udacity/fullstack-nanodegree-vm)
+- Virtual box toolkit: [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 ## Steps to get started:
 1. install **Vagrant** and **VirtulBox**
 2. clone the vagrantfile from Udacity repo
