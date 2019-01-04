@@ -3,11 +3,11 @@
 This is the fourth project of the udacity full stack nanodegree
 You will develop an application that provides a list of items within a variety of categories as well as provide a user registration and authentication system. Registered users will have the ability to post, edit and delete their own items.
 ## This project should complete the following:
--The Item Catalog project consists of developing an application that provides a list of items within a variety of categories, as well as provide a user registration and authentication system. In this sample project, the homepage displays all current categories along with the latest added items.
--Selecting a specific category shows you all the items available for that category.
--Selecting a specific item shows you specific information of that item.
--After logging in, a user has the ability to add, update, or delete item info.
--The application provides a JSON endpoint, at the very least.
+- The Item Catalog project consists of developing an application that provides a list of items within a variety of categories, as well as provide a user registration and authentication system. In this sample project, the homepage displays all current categories along with the latest added items.
+- Selecting a specific category shows you all the items available for that category.
+- Selecting a specific item shows you specific information of that item.
+- After logging in, a user has the ability to add, update, or delete item info.
+- The application provides a JSON endpoint, at the very least.
 ## Dependencies/Pre-requisites:
 1. The virtual machine:[Vagrant](https://www.vagrantup.com/)
 2. Links provided by udacity: [Udacity Vagrantfile](https://github.com/udacity/fullstack-nanodegree-vm)
